@@ -1,0 +1,18 @@
+html,body{
+	margin:0px;
+	padding:0px;
+
+}
+#messages{
+width:500px;
+height:300px;
+padding:10px;
+border:1px solid #CCC;
+overflow:auto;
+margin:10px;
+}
+#input{
+	
+	margin:10px;
+	
+}
